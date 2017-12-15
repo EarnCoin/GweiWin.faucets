@@ -1,2 +1,9 @@
 # GweiWin.faucets
-{"title":"MoonBitcoin","cat":"Ethereum","description":"5 mins 100 gwei faucethub.io"}
+<ul>
+  <li>Currency:Ethereum</li>
+  <li>Wait(min): 5</li>
+  <li>Min(gwei): 100</li>
+  <li>Bonus(%): 20</li>
+  <li>Withdraw: faucethub.io</li>
+</ul>
+
